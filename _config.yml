@@ -1,0 +1,6 @@
+# add the following to _config.yml file
+title: Reza Alinejad
+#logo : /assets/img/headshot_circile.png
+#description : text below image ...
+#show_downloads : true
+theme: jeykll-theme-minimal
