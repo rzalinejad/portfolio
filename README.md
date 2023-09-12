@@ -1,5 +1,6 @@
-# ENG
-### Education
-ENG
-### Work Experince
+# About
+An electronics engineer with a diverse range of expertise in circuit design, digital electronics, embedded systems, and data acquisition. With hands-on experience in analog circuit design, I have developed instrumentation amplifier circuits, analog sensor solutions, op-amp configurations, active filters, and various power management circuits, including DC-to-DC switching power supplies and current limit designs. I am proficient in integrating digital components, such as ADCs and DACs, and have worked extensively with communication protocols like I2C, UART, SPI, and USB. My proficiency extends to firmware and driver development for microcontrollers like STM32 from STMicroelectronics, and I excel in testing and debugging using tools like IAR and Keil-uVision.
+
+In addition, I have a strong background in data acquisition and application development using languages like LabVIEW, C, C++, C#, and Python. I specialize in designing and developing schematics and PCB layouts using Altium Designer, PADS, PADS Logic, and ORCAD, always considering factors like thermal management, EMI, power planes, and noise reduction. My expertise also includes circuit simulation and optimization using SPICE tools, such as LT Spice and TI TINA, for pre-prototype stage design. I'm well-versed in using various test and measurement equipment, including RF Spectrum Analyzers, Optical Spectrum Analyzers, Logic Analyzers, Oscilloscopes, Hi-Pot testers, Signal Generators, and more.
+
 ### Projects
