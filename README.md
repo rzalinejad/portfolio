@@ -1,6 +1,26 @@
 # About
-An electronics engineer with a diverse range of expertise in circuit design, digital electronics, embedded systems, and data acquisition. With hands-on experience in analog circuit design, I have developed instrumentation amplifier circuits, analog sensor solutions, op-amp configurations, active filters, and various power management circuits, including DC-to-DC switching power supplies and current limit designs. I am proficient in integrating digital components, such as ADCs and DACs, and have worked extensively with communication protocols like I2C, UART, SPI, and USB. My proficiency extends to firmware and driver development for microcontrollers like STM32 from STMicroelectronics, and I excel in testing and debugging using tools like IAR and Keil-uVision.
-
-In addition, I have a strong background in data acquisition and application development using languages like LabVIEW, C, C++, C#, and Python. I specialize in designing and developing schematics and PCB layouts using Altium Designer, PADS, PADS Logic, and ORCAD, always considering factors like thermal management, EMI, power planes, and noise reduction. My expertise also includes circuit simulation and optimization using SPICE tools, such as LT Spice and TI TINA, for pre-prototype stage design. I'm well-versed in using various test and measurement equipment, including RF Spectrum Analyzers, Optical Spectrum Analyzers, Logic Analyzers, Oscilloscopes, Hi-Pot testers, Signal Generators, and more.
+An electronics engineer with a diverse range of experience in analog and digital electronic design, microcontroller and embedded systems, Rf electronics, fiber optics. Highly skilled in troubleshooting problem
+solving with exceptional organizational skills with the ability to initiate, plan and carry out ideas and programs to reach objectives.
+Technical Expertise:
+Hands on experience with analog circuit design including Instrumentation amplifier circuits, analog sensor design, op amp
+circuit design, DC to DC switching power supply, current limit circuit, current sense Amp, load switch , ESD protection circuit, Battery based charger circuit design, Power MUX and OR-ing
+Experience with digital circuit design, signal processing ADC, DAC, various communications protocols such as I2C, UART,
+SPI, integrating RF technologies such as SUB-GHZ and Bluetooth transceivers
+Embedded systems firmware and driver programming, testing and debugging using IAR, Keil-uVision, CubeIDE for
+STM32_STMicroelectronic microcontrollers and Mplabx for Microchip
+Data Acquisition, Serial Monitoring, Application development using Labview, C, C++, C#, Python
+Design and develop Schematic and PCB layout using Altium Desiner and PADS, PADS Logix, Orcad considering Thermal
+management, EMI, power planes and noise reduction create final BOMs and cost, assembly packages, finding vendors and
+component evaluting
+Circuit simulation and circuit optimization using SPICE tools (LT Spice and TI_TINA ) for Pre-prototype stage designing
+Experience with Fiber optic FBG's, Sensors's, fiber Amplifiers, tunable laser, pulse laser, light source driver, power laser
+Solid work mechanical design for making jig, fixture and enclosure parts
+Experience with test and measurement equipment including Rf Spectrum Analyzer, Optical Spectrum Analyzer, Logic
+Analyzer(SPI and I2C sniffer), Oscilloscope,, Signal Generator, In Circuit Debugger & Emulators
+Familiar with Motion control using Stepper Motors in precise projects including control position and monitoring, GUI and
+Interface with Labview and Python
+Hand soldering and reworking of SMT components, Hot air soldering Machine Very small packages
+Experience with design for assembly (DFA) / design for manufacturing (DFM), six sigma
+Create technical design documentation, test procedures and test reports
 
 ### Projects
